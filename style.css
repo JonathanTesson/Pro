@@ -687,22 +687,30 @@ a.contact-button-portfolio {
     top:26px; 
 }
 
-.bandeau-fin {
+div.frame {
     
+    background-color :transparent;
+
+}
+
+
+
+.bandeau-fin {
+    background: url(image/cover-filtre.jpg) no-repeat center/cover;
     height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin2 {
-    
+    background: url(image/cover2-filtre.jpg) no-repeat center/cover;
     height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin3 {
-    
+    background: url(image/coverdj-filtre.jpg) no-repeat center/cover;
     height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
@@ -760,21 +768,21 @@ div.frame p {
 
 div.frame {
     
-    background-color :#ffffffd0;
+    background-color :transparent;
 
 }
 
 
 
 .bandeau-fin {
-    background: url(image/cover.jpg) no-repeat center/cover;
+    background: url(image/cover-filtre.jpg) no-repeat center/cover;
     height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin2 {
-    background: url(image/cover2.jpg) no-repeat center/cover;
+    background: url(image/cover2-filtre.jpg) no-repeat center/cover;
     height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
@@ -782,7 +790,7 @@ div.frame {
 
 
 .bandeau-fin3 {
-    background: url(image/coverdj.jpg) no-repeat center/cover;
+    background: url(image/coverdj-filtre.jpg) no-repeat center/cover;
     height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
