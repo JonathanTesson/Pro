@@ -689,21 +689,21 @@ a.contact-button-portfolio {
 
 .bandeau-fin {
     
-    height: 188px;
+    height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin2 {
     
-    height: 188px;
+    height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin3 {
     
-    height: 188px;
+    height: 189px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
@@ -756,24 +756,34 @@ div.frame p {
     font-size: 10px;
 }
 
-.bandeau-fin {
+
+
+div.frame {
     
-    height: 148px;
+    background-color :#ffffffd0;
+
+}
+
+
+
+.bandeau-fin {
+    background: url(image/cover.jpg) no-repeat center/cover;
+    height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 .bandeau-fin2 {
-    
-    height: 148px;
+    background: url(image/cover2.jpg) no-repeat center/cover;
+    height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
 
 
 .bandeau-fin3 {
-    
-    height: 148px;
+    background: url(image/coverdj.jpg) no-repeat center/cover;
+    height: 147px;
     box-shadow: 0px 0px 8px 8px rgba(0, 0, 0, 0.2);
     
 }
