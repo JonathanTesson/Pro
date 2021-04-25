@@ -125,11 +125,11 @@ div.cover {
 }  
 
 img.cover-profile {
-    height: 150px;
+    height: 200px;
     position: relative;
     left: 50%;
-    margin-left: -65px;
-    margin-top: 20px;
+    margin-left: -95px;
+    margin-top: 0px;
    
 }
 
@@ -543,10 +543,18 @@ h4.musique {
 
      
   img.cover-profile {
-    height: 90px;
-    margin-top: 70px;
-    margin-left: -40px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: -65px;
+    padding-top: 10px;
+    
+
 }
+
+
+
+
+
 
 h1 {
     
@@ -604,7 +612,7 @@ div.frame img {
 
 div.cover {
     
-    height: 288px;
+    height: 289px;
     box-shadow: none;
  
 }  
@@ -740,10 +748,20 @@ div.frame p {
     font-size: 14px;
 }
 
-
+img.cover-profile {
+    height: 150px;
+    margin-top: 19px;
+    margin-left: -67px;
+    padding-top: 10px;
 
 }
+div.cover {
 
+    height: 297px;
+    
+
+}
+}
 
 
 @media only screen and (max-width: 360px){
@@ -764,6 +782,21 @@ div.frame p {
     font-size: 12px;
 }
 
+
+
+img.cover-profile {
+    height: 140px;
+    margin-top: 28px;
+    margin-left: -62px;
+    padding-top: 10px;   
+
+}
+
+div.cover {
+
+    height: 296px;
+
+}
 
 
 
@@ -854,10 +887,15 @@ font-size: 15px;
 }
 img.cover-profile {
   
-    margin-left: -45px;
+    margin-left: -61px;
     
    
 }
+div.cover {
+
+    height: 296px;
+}
+
 
 
 
