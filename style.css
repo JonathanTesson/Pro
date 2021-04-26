@@ -318,7 +318,7 @@ max-width: 200PX;
     
     border-radius: 8px;
     color:black;
-    margin-bottom: -40px;
+    margin-bottom: -34px;
     padding-bottom: 0;
     z-index: 1;
     
@@ -335,10 +335,10 @@ max-width: 200PX;
 
 .xxxcolor {
     
-    width: 5%;
+    width: 7%;
     background-color:var(--color1) ;
     border-radius: 8px;
-    height: 20px;
+    height: 10px;
     position: absolute;
     max-width: 360px;
     margin-left:58px ;
@@ -364,10 +364,10 @@ max-width: 200PX;
 
 .xxxcolor2 {
     
-    width: 5%;
+    width: 7%;
     background-color:var(--color1)  ;
     border-radius: 8px;
-    height: 20px;
+    height: 10px;
     position: absolute;
     max-width: 360px;
     
@@ -732,6 +732,10 @@ h4.musique2 {
             /* For mobile phones: */
 
 @media only screen and (max-width: 627px) {
+
+
+
+
 
     table.float-right {
 
